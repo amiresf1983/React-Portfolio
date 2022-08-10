@@ -1,0 +1,131 @@
+.PROJECT4 {
+  display: flex;
+  justify-content: center;
+}
+
+.projectPage {
+  padding: 30px 60px;
+  font-family: sans-serif;
+  background-color: black;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-bottom: 15px; */
+  position: relative;
+  bottom: 0px;
+}
+.porthead {
+  background-color: black;
+  padding: 5px;
+  margin-top: 0px;
+}
+.portfolio {
+  margin-top: 1.3rem;
+  background: #3f51b5;
+  height: 3rem;
+  line-height: 2.5;
+  font-size: 1.2rem;
+  color: white;
+  padding: 0 20px;
+  position: relative;
+  bottom: 0px;
+}
+.project1Image
+  .project2Image
+  .project3Image
+  .project4Image
+  .project5Image
+  .project6Image {
+  float: left;
+  margin-right: 25px;
+  height: 240px;
+  max-width: 400px;
+  border: solid 4px white;
+}
+
+.project1Link
+  .project2Link
+  .project3Link
+  .project4Link
+  .project5Link
+  .project6Link {
+  color: aqua;
+  font-size: medium;
+}
+
+.project2Image {
+  float: right;
+  margin-right: 25px;
+  height: 240px;
+  width: 400px;
+  border: solid 4px white;
+}
+
+.project2Link {
+  color: aqua;
+  font-size: medium;
+}
+
+.project3Image {
+  float: left;
+  margin-right: 25px;
+  height: 240px;
+  width: 400px;
+  border: solid 4px white;
+}
+
+.project3Link {
+  color: aqua;
+  font-size: medium;
+}
+.project4Image {
+  float: left;
+  margin-right: 25px;
+  height: 240px;
+  width: 400px;
+  border: solid 4px white;
+}
+.project5Image {
+  float: left;
+  margin-right: 25px;
+  height: 240px;
+  width: 400px;
+  border: solid 4px white;
+}
+.project6Image {
+  float: left;
+  margin-right: 25px;
+  height: 240px;
+  width: 400px;
+  border: solid 4px white;
+}
+.project4Link {
+  color: aqua;
+  font-size: medium;
+}
+.project5Link {
+  color: aqua;
+  font-size: medium;
+}
+.project6Link {
+  color: aqua;
+  font-size: medium;
+}
+@media (max-width: 576px) {
+  .projectPage {
+    padding: 20px 20px;
+  }
+
+  .project1Image {
+    height: 190px;
+  }
+
+  .project2Image {
+    height: 190px;
+  }
+
+  .project3Image {
+    height: 190px;
+  }
+}

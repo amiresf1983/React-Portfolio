@@ -1,0 +1,48 @@
+.footer {
+  padding: 1.25rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: black;
+  height: 12rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+  bottom: 0;
+}
+
+footer h3 {
+  font-size: 1.56rem;
+
+  color: coral;
+  padding-left: 0.625rem;
+}
+
+.footer nav {
+  margin-right: 1.25rem;
+  margin-left: 1.56rem;
+  padding-top: 0.315rem;
+
+  font-family: sans-serif;
+  background-color: black;
+}
+
+.icon {
+  width: 1.8rem;
+  margin-right: 15px;
+}
+
+.contactIcon:hover {
+  filter: drop-shadow(3px 4px 3px rgb(203, 192, 192));
+}
+
+@media (max-width: 576px) {
+  .icon {
+    width: 1.7rem;
+    margin-right: 15px;
+  }
+
+  footer h3 {
+    font-size: 1.48rem;
+  }
+}

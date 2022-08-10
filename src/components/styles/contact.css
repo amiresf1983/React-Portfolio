@@ -1,0 +1,78 @@
+.contact {
+  margin-top: 1.3rem;
+  background: #3f51b5;
+  height: 3rem;
+  line-height: 2.5;
+  font-size: 1.2rem;
+  color: white;
+  padding: 0 20px;
+  position: relative;
+  bottom: 20px;
+  background-color: black;
+}
+.conthead {
+  background-color: black;
+  padding: 5px;
+  margin-top: 0px;
+}
+.form {
+  padding: 20;
+  background-color: black;
+  color: aqua;
+  padding: 20px;
+  position: relative;
+  bottom: 30px;
+}
+
+.formContent {
+  margin-left: 16.6%;
+  margin-right: 16.6%;
+}
+
+.name {
+  background-color: rgb(84, 85, 91);
+  border: 1px;
+  color: white;
+  border-color: rgb(139, 143, 143);
+  border-style: solid;
+}
+
+.email {
+  background-color: rgb(84, 85, 91);
+  color: white;
+  border-color: 1px rgb(152, 156, 156);
+  border-style: solid;
+}
+.message {
+  /*resize: vertical;*/
+  background-color: rgb(84, 85, 91);
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: white;
+  padding: 5px;
+  border-color: 2px rgb(152, 156, 156);
+  border-style: solid;
+}
+
+.button {
+  border-color: aqua;
+  background-color: rgb(84, 85, 91);
+  color: white;
+  border-radius: 3px;
+}
+
+@media (max-width: 576px) {
+  .formContent {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+
+footer {
+  margin-top: 0px;
+  bottom: 0;
+}
+
+h1 {
+  color: white;
+}

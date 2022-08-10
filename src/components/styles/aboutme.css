@@ -1,0 +1,130 @@
+.aboutmeDiv {
+  background-color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.imageDiv {
+  display: flex;
+  justify-content: center;
+  margin-left: 11%;
+  margin-right: 11%;
+  display: flex;
+
+  align-items: flex-end;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+.amirImg {
+  height: 250px;
+  width: 180px;
+  margin-bottom: 5px;
+  margin-right: 40px;
+  margin-top: 30px;
+  border-radius: 50%;
+  border: solid, black;
+
+  /* border-radius: 8px; */
+  border: 1px rgb(59, 59, 59);
+  border-style: solid;
+}
+
+.icons {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.icon1 {
+  margin-right: 10px;
+  margin-top: 5px;
+  width: 2.7rem;
+  height: 2.52rem;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+}
+
+.aboutme {
+  flex: auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+  margin-top: 5px;
+  background: black;
+  height: 3rem;
+  line-height: 2.5;
+  font-size: 48px;
+  color: yellowgreen;
+  margin-right: 11%;
+  margin-left: 11%;
+  margin-bottom: 25px;
+}
+.aboutme span {
+  font-size: 36px;
+  color: coral;
+  font-style: oblique;
+}
+.aboutme h1 {
+  font-size: 32px;
+}
+
+.content {
+  padding: 20;
+  background-color: black;
+  color: white;
+  padding: 20px 40px 20px 40px;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+.span1 {
+  color: coral;
+  font-size: large;
+}
+
+.span2 {
+  color: aqua;
+}
+
+.pTag {
+  background-color: black;
+  height: 30px;
+}
+
+@media (max-width: 576px) {
+  .aboutme {
+    margin-right: 6%;
+    margin-left: 6%;
+  }
+
+  .content {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  .icons {
+    margin-top: 2px;
+  }
+
+  .icon1 {
+    margin-right: 10px;
+    margin-top: 5px;
+    width: 2.14rem;
+    height: 2.01rem;
+  }
+
+  .amirImg {
+    height: 162px;
+    width: 129.6px;
+    margin-bottom: 5px;
+    margin-right: 40px;
+    margin-top: 30px;
+    border-radius: 50%;
+  }
+  .title {
+    font-size: 24px;
+  }
+}
