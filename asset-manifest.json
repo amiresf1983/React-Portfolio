@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.28e38400.css",
+    "main.js": "/React-Portfolio/static/js/main.af14e32a.js",
+    "static/media/project1.png": "/React-Portfolio/static/media/project1.836e09aa7933899cbea1.png",
+    "static/media/project2.png": "/React-Portfolio/static/media/project2.f7311bb7e9f4f45f5928.png",
+    "static/media/amir-resume.pdf": "/React-Portfolio/static/media/amir-resume.e40e5b6ae6dca0e55399.pdf",
+    "static/media/avatar.jpg": "/React-Portfolio/static/media/avatar.8b4e54afa602de48f58a.jpg",
+    "static/media/project3.png": "/React-Portfolio/static/media/project3.3df63e3791a7176aa4a3.png",
+    "static/media/project4.png": "/React-Portfolio/static/media/project4.222b08ffe2f89992291a.png",
+    "static/media/mobile-phone-icon.png": "/React-Portfolio/static/media/mobile-phone-icon.94910a0e10543f578d60.png",
+    "static/media/twitter-bird-symbols-png.png": "/React-Portfolio/static/media/twitter-bird-symbols-png.ed37c2edc4f42740b9cf.png",
+    "static/media/symbole-github-violet.png": "/React-Portfolio/static/media/symbole-github-violet.9315c250b53978239b67.png",
+    "static/media/project6.png": "/React-Portfolio/static/media/project6.316f99c829bbe20d7439.png",
+    "static/media/Mail-icon.png": "/React-Portfolio/static/media/Mail-icon.47e4956704e76234da9b.png",
+    "static/media/project5.png": "/React-Portfolio/static/media/project5.6286de448e7198eac492.png",
+    "static/media/linkedin-icon.png": "/React-Portfolio/static/media/linkedin-icon.0cd1b13e7d8b2244983d.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.28e38400.css.map": "/React-Portfolio/static/css/main.28e38400.css.map",
+    "main.af14e32a.js.map": "/React-Portfolio/static/js/main.af14e32a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e38400.css",
+    "static/js/main.af14e32a.js"
+  ]
+}
